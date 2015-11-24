@@ -1,6 +1,6 @@
 ##Bio
 
-**Name**: Wen
-Location: Toronto
-Favourite Food: Noodles
-Hobby: Bridge
+- **Name**: Wen
+- Location: Toronto
+- Favourite Food: Noodles
+- Hobby: Bridge
